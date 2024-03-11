@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_74_4gd99Ee6O6JB94-2i4Q" label="datalake" description="hhh" language="java" technicalLabel="DATALAKE" author="_74_4gt99Ee6O6JB94-2i4Q" productVersion="Talend Cloud Data Management Platform-8.0.1.20231017_1026-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/TalendTec/datalake-project.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_76gUYN99Ee6O6JB94-2i4Q" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_74_4gt99Ee6O6JB94-2i4Q" login="bramhaiah0206@trial13354.ap.talend.com" firstName="Bramhaiah" lastName="h" type="DQ"/>
+</xmi:XMI>
